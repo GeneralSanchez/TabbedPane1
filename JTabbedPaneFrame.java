@@ -10,7 +10,7 @@ public class JTabbedPaneFrame extends JFrame
 {
   public JTabbedPaneFrame()
   {
-    super("Ms. Rioux's JTabbedPane Demo");
+    super("Andy's JTabbedPane Demo");
 
     //create the tabbed pane  hold tab formatting
     JTabbedPane tabPane = new JTabbedPane();
